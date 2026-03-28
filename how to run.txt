@@ -1,0 +1,7 @@
+cd "C:\Users\WIN10\Documents\Internship tasks\Task2\chat-app"
+npm install
+npm run dev
+
+
+cd "C:\Users\WIN10\Documents\Internship tasks\Task2\chat-app"
+npm run server
